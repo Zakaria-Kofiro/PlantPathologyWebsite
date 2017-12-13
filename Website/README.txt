@@ -10,7 +10,13 @@ To use website:
 1. Open the home file in a browser (usually clicking on it does this automatically)
 
 2. If pictures are not showing up, make sure the file layout in the "Website" folder has:
-   (exp1, exp2, exp3, exp4, home, styles.css and a Pictures folder) 
+      exp1 
+      exp2 
+      exp3 
+      exp4 
+      home 
+      styles.css
+      Pictures(folder)
 
 
 3. Contact kofiro@wisc.edu for any questions/comments. 
